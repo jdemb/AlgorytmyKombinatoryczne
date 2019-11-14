@@ -1,0 +1,11 @@
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\bin\Debug\netcoreapp2.2\Algorytm9.deps.json
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\bin\Debug\netcoreapp2.2\Algorytm9.runtimeconfig.json
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\bin\Debug\netcoreapp2.2\Algorytm9.runtimeconfig.dev.json
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\bin\Debug\netcoreapp2.2\Algorytm9.dll
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\bin\Debug\netcoreapp2.2\Algorytm9.pdb
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\obj\Debug\netcoreapp2.2\Algorytm9.csprojAssemblyReference.cache
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\obj\Debug\netcoreapp2.2\Algorytm9.csproj.CoreCompileInputs.cache
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\obj\Debug\netcoreapp2.2\Algorytm9.AssemblyInfoInputs.cache
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\obj\Debug\netcoreapp2.2\Algorytm9.AssemblyInfo.cs
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\obj\Debug\netcoreapp2.2\Algorytm9.dll
+F:\Studia\Algorytmy kombinatoryczne\Algorytm9\Algorytm9\obj\Debug\netcoreapp2.2\Algorytm9.pdb
