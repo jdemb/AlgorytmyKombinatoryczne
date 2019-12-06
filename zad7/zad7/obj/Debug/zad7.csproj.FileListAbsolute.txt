@@ -1,0 +1,7 @@
+F:\Studia\Algorytmy kombinatoryczne\zad7\zad7\bin\Debug\zad7.exe.config
+F:\Studia\Algorytmy kombinatoryczne\zad7\zad7\bin\Debug\zad7.exe
+F:\Studia\Algorytmy kombinatoryczne\zad7\zad7\bin\Debug\zad7.pdb
+F:\Studia\Algorytmy kombinatoryczne\zad7\zad7\obj\Debug\zad7.csprojAssemblyReference.cache
+F:\Studia\Algorytmy kombinatoryczne\zad7\zad7\obj\Debug\zad7.csproj.CoreCompileInputs.cache
+F:\Studia\Algorytmy kombinatoryczne\zad7\zad7\obj\Debug\zad7.exe
+F:\Studia\Algorytmy kombinatoryczne\zad7\zad7\obj\Debug\zad7.pdb
