@@ -1,0 +1,7 @@
+F:\Studia\Algorytmy kombinatoryczne\Zadanie 6\Zad6\Zad6\bin\Debug\Zad6.exe.config
+F:\Studia\Algorytmy kombinatoryczne\Zadanie 6\Zad6\Zad6\bin\Debug\Zad6.exe
+F:\Studia\Algorytmy kombinatoryczne\Zadanie 6\Zad6\Zad6\bin\Debug\Zad6.pdb
+F:\Studia\Algorytmy kombinatoryczne\Zadanie 6\Zad6\Zad6\obj\Debug\Zad6.csprojAssemblyReference.cache
+F:\Studia\Algorytmy kombinatoryczne\Zadanie 6\Zad6\Zad6\obj\Debug\Zad6.csproj.CoreCompileInputs.cache
+F:\Studia\Algorytmy kombinatoryczne\Zadanie 6\Zad6\Zad6\obj\Debug\Zad6.exe
+F:\Studia\Algorytmy kombinatoryczne\Zadanie 6\Zad6\Zad6\obj\Debug\Zad6.pdb
