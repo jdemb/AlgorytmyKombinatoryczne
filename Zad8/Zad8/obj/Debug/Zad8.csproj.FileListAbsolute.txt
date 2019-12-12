@@ -1,0 +1,6 @@
+C:\Users\jedrzej.dembowski\Documents\Studia\AK\Zad8\Zad8\Zad8\bin\Debug\Zad8.exe.config
+C:\Users\jedrzej.dembowski\Documents\Studia\AK\Zad8\Zad8\Zad8\bin\Debug\Zad8.exe
+C:\Users\jedrzej.dembowski\Documents\Studia\AK\Zad8\Zad8\Zad8\bin\Debug\Zad8.pdb
+C:\Users\jedrzej.dembowski\Documents\Studia\AK\Zad8\Zad8\Zad8\obj\Debug\Zad8.csprojAssemblyReference.cache
+C:\Users\jedrzej.dembowski\Documents\Studia\AK\Zad8\Zad8\Zad8\obj\Debug\Zad8.exe
+C:\Users\jedrzej.dembowski\Documents\Studia\AK\Zad8\Zad8\Zad8\obj\Debug\Zad8.pdb
