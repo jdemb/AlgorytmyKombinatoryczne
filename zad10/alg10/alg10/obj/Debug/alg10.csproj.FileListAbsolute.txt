@@ -1,0 +1,7 @@
+F:\Studia\Algorytmy kombinatoryczne\zad10\alg10\alg10\bin\Debug\alg10.exe.config
+F:\Studia\Algorytmy kombinatoryczne\zad10\alg10\alg10\bin\Debug\alg10.exe
+F:\Studia\Algorytmy kombinatoryczne\zad10\alg10\alg10\bin\Debug\alg10.pdb
+F:\Studia\Algorytmy kombinatoryczne\zad10\alg10\alg10\obj\Debug\alg10.csprojAssemblyReference.cache
+F:\Studia\Algorytmy kombinatoryczne\zad10\alg10\alg10\obj\Debug\alg10.csproj.CoreCompileInputs.cache
+F:\Studia\Algorytmy kombinatoryczne\zad10\alg10\alg10\obj\Debug\alg10.exe
+F:\Studia\Algorytmy kombinatoryczne\zad10\alg10\alg10\obj\Debug\alg10.pdb
